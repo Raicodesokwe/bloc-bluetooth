@@ -159,7 +159,7 @@ Future onRefresh() async {
                    const  Expanded(
                       child: Center(
                         child:   Text(
-                            'No devices found. Press icon to try again.',
+                            'No devices found.',
                             textAlign: TextAlign.center,
                           ),
                       ),
